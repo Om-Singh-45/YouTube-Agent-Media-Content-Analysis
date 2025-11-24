@@ -9,9 +9,8 @@
 
 An intelligent YouTube video analysis tool powered by AI that provides comprehensive insights, summaries, and interactive features. Transform any YouTube video into structured knowledge with AI-powered analysis.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/placeholder-video-preview.png" alt="Video Insight AI Demo" width="800">
-</p>
+
+
 
 ## ✨ Features
 
@@ -49,6 +48,20 @@ An intelligent YouTube video analysis tool powered by AI that provides comprehen
   - Groq
 - **YouTube API Integration**
 - **pytube** - Video metadata extraction
+
+## 📦 Results
+**HomePage**
+<img width="1768" height="885" alt="Screenshot 2025-11-24 185004" src="https://github.com/user-attachments/assets/3d3ba74c-de00-439c-a298-71e98b2f9f54" />
+<img width="1764" height="899" alt="Screenshot 2025-11-24 185203" src="https://github.com/user-attachments/assets/8d8cf3e6-23c9-4268-9367-232f00678ec2" />
+<img width="1734" height="864" alt="Screenshot 2025-11-24 185227" src="https://github.com/user-attachments/assets/a7e3103e-790e-44a1-a9ca-98eb44a0000a" />
+
+**Analysis Result**
+<img width="1705" height="893" alt="Screenshot 2025-11-24 192341" src="https://github.com/user-attachments/assets/e19f2d13-084e-44ff-b545-2a2e0a2bba48" />
+<img width="1567" height="795" alt="Screenshot 2025-11-24 192413" src="https://github.com/user-attachments/assets/6c691b93-bd09-4899-ab5b-ab3ac3b49d29" />
+
+
+
+
 
 ## 📦 Installation
 
