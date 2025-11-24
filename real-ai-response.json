@@ -1,0 +1,24 @@
+{
+  "chapters": [
+    {
+      "timestamp": "00:00",
+      "title": "Introduction"
+    },
+    {
+      "timestamp": "05:30",
+      "title": "Main Topic"
+    },
+    {
+      "timestamp": "12:15",
+      "title": "Conclusion"
+    }
+  ],
+  "insights": "Additional insights from the video:\n- Insight 1\n- Insight 2\n- Insight 3",
+  "study_notes": "These are important study notes from the video:\n1. Key Point 1\n2. Key Point 2\n3. Key Point 3",
+  "summary": "This is a detailed summary of the video content. The speaker discusses various important topics related to the subject matter.",
+  "themes": [
+    "Main Theme 1",
+    "Main Theme 2",
+    "Supporting Topic"
+  ]
+}
