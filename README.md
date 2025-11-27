@@ -22,7 +22,15 @@ An intelligent YouTube video analysis tool powered by AI that provides comprehen
 - **Responsive Design**: Works beautifully on desktop, tablet, and mobile
 - **Sticky Navigation**: Chapter sidebar stays visible while scrolling
 
-## 🖼️ Screenshots
+## 📦 Results
+**HomePage**
+<img width="1768" height="885" alt="Screenshot 2025-11-24 185004" src="https://github.com/user-attachments/assets/3d3ba74c-de00-439c-a298-71e98b2f9f54" />
+<img width="1764" height="899" alt="Screenshot 2025-11-24 185203" src="https://github.com/user-attachments/assets/8d8cf3e6-23c9-4268-9367-232f00678ec2" />
+<img width="1734" height="864" alt="Screenshot 2025-11-24 185227" src="https://github.com/user-attachments/assets/a7e3103e-790e-44a1-a9ca-98eb44a0000a" />
+
+**Analysis Result**
+<img width="1705" height="893" alt="Screenshot 2025-11-24 192341" src="https://github.com/user-attachments/assets/e19f2d13-084e-44ff-b545-2a2e0a2bba48" />
+
 
 ### Main Interface
 The landing page features a clean, modern design with gradient effects and smooth animations.
